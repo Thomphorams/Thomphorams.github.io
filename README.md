@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>thomphorams</h1>
+  <h1>Thomphorams</h1>
   <i>A beautiful portfolio Jekyll theme that works with GitHub Pages.</i>
 
   <a href="https://YoussefRaafatNasry.github.io/portfolYOU/">Live Demo</a>

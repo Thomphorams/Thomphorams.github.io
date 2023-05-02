@@ -1,11 +1,40 @@
-<div align="center">
-  <h1>Thomphorams</h1>
-  <i>A beautiful portfolio Jekyll theme that works with GitHub Pages.</i>
 
-  <a href="https://YoussefRaafatNasry.github.io/portfolYOU/">Live Demo</a>
-  •
-  <a href="https://YoussefRaafatNasry.github.io/portfolYOU/docs/">Documentation</a>
+# Personal Portfolio ⚡️ 
+> https://Thomphorams.github.io
 
-  <a href="https://YoussefRaafatNasry.github.io/portfolYOU"><img src="screenshot.gif"></a>
-  <sub><sup>© 2019 portfolYOU, licensed under the <a href="./LICENSE">MIT License</a>.</sup></sub>
-</div>
+## Sections 📚
+✔️ About me\
+✔️ Experience\
+✔️ Projects \
+✔️ Skills \
+✔️ Education\
+✔️ Contact Info\
+✔️ Resume
+
+To view a live example, **[click here](https://varadbhogayata.github.io/)**
+
+## Tools Used 🛠️
+* [<b>GitHub Pages</b>](https://create-react-app.dev/docs/deployment/#github-pages) - To host my static website (HTML, CSS, JS).
+* [<b>Materialize</b>](https://materializecss.com/) - A CSS framework to get Google's Material Design components.
+* [<b>Typed.js</b>](https://mattboldt.com/demos/typed-js/) - JavaScript Library
+
+## Contributing 💡
+#### Step 1
+
+- **Option 1**
+    - 🍴 Fork this repo!
+
+- **Option 2**
+    - 👯 Clone this repo to your local machine.
+
+
+#### Step 2
+
+- **Build your code** 🔨🔨🔨
+
+#### Step 3
+
+- 🔃 Create a new pull request.
+
+## License 📄
+This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE) file for details.
